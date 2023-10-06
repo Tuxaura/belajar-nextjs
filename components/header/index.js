@@ -3,7 +3,7 @@ import Menu from "../menu"
 
 function Header() {
 return (
-    <div>
+    <div className='text-3xl font-bold underline'>
       <Menu />
     </div>
   )
